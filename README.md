@@ -4,7 +4,7 @@ This project focuses on predictive maintenance using the NASA engine degradation
 
 <h2>Dataset</h2>
 
-The dataset used is from NASA, specifically the [CMAPSS dataset](https://data.nasa.gov/dataset/Prognostics-Data-Challenge-Dataset/4nxq-icbz). I have used the train_FD001.txt file for this analysis. The dataset consists of multiple time-series sensor readings from different engines under varying operational conditions.
+The dataset used is from NASA, specifically the [CMAPSS-Jet-Engine-Simulated-Data](https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data). I have used the train_FD001.txt file for this analysis. The dataset consists of multiple time-series sensor readings from different engines under varying operational conditions.
 
 <h2>Project Structure</h2>
 
